@@ -30,7 +30,7 @@ Antes de executar o projeto, você precisa ter instalado em sua máquina:
 
 ## Configuração do Projeto
 - Clone o repositório:
-git clone https://github.com/amandagrsl/Desafio-BIUD
+git clone github.com/amandagrsl/Desafio-BIUD
 
 - Acesse a pasta do backend:
 cd biud-backend
@@ -74,4 +74,4 @@ getChats().then(chats => {
 
 ## Link do Repositório
 O código completo do projeto pode ser acessado em:
-<insira-aqui-o-link-do-seu-repositorio-no-github-ou-gitlab>
+https://github.com/amandagrsl/Desafio-BIUD
