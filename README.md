@@ -55,7 +55,7 @@ node index.js
 O backend estará rodando em:
 http://localhost:3000
 
-## Testes
+## Teste
 Testes básicos implementados:
 - Validação de conexão ao banco de dados.
 - Testes unitários simples para as funções de leitura de mensagens e envio de respostas automáticas.
