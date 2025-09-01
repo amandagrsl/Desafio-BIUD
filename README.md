@@ -30,7 +30,7 @@ Antes de executar o projeto, você precisa ter instalado em sua máquina:
 
 ## Configuração do Projeto
 - Clone o repositório:
-git clone <link-do-repositorio>
+git clone https://github.com/amandagrsl/Desafio-BIUD
 
 - Acesse a pasta do backend:
 cd biud-backend
